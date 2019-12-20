@@ -1,0 +1,14 @@
+body{
+    background-color: 7A0202;
+}
+.background{
+    width: 1500px;
+    height: 500px;
+}
+h1{
+    color:white;
+    font-size: 60px;
+}
+h5{
+    color:blue;
+}

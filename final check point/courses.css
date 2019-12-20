@@ -1,0 +1,15 @@
+
+div {
+    background-image: url('RES/GOMYCODE.jpeg');
+    width:1500px; height: 500
+}
+h1{
+    color:#ffffff;
+    top:200px;
+    position: relative;
+    font-size: 60px;
+}
+h2{
+    color: white;
+    font-size: 35px;
+}

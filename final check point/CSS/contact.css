@@ -1,0 +1,13 @@
+body{
+    background-color: 7A0202;
+}   
+div {
+    background-image:url('../RES/GOMYCODE.jpeg');
+    width:1500px; height: 500
+}
+h1{
+    color:white;
+    font-size: 40px;
+    top:200px;
+    position: relative;
+}

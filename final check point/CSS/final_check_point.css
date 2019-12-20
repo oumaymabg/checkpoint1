@@ -1,0 +1,28 @@
+body {
+    
+    background-color:7D0404;
+}
+h1{
+    color:black;
+}
+nav ul{
+    padding:0px;
+    margin:0px;
+    list-style-type:none;
+    background-color:7D0404;
+}
+
+nav li {
+    display: inline-block;
+    width:100px;
+    height: 50px;
+    margin:0px;
+    padding:0px;
+    border-right:1px skyblue  ;
+    text-align: center;
+    line-height: 50px;
+}
+nav li a{
+    text-decoration: none;
+    color:wheat;
+}

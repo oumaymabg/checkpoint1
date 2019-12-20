@@ -1,0 +1,9 @@
+button:hover {
+    background-color:lightseagreen ;
+}
+p:hover {
+    display :none;
+}
+b {
+    display: block ;
+}
